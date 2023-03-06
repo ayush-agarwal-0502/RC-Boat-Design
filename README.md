@@ -1,5 +1,5 @@
 # RC-Boat-Design
-Literature survey and implementation of Naval engineering concepts for RC Boat Design speed and control optimization
+Built 2 RC boats ( 1 Deep V Planing Hull with rudder drive+ 1 Catamaran Hull with differential drive) and also did Literature survey and implementation of Naval engineering concepts for RC Boat Design speed and control optimization .
 
 Led and managed a team of 7 other people and worked into making a RC boat to represent Society of Automotive Engineers (SAE) in Rowboatics Techfest , the RC boat competition in the technical fest of IIT Bombay . 
 
