@@ -18,3 +18,13 @@ Care has been taken to include discussion upon
 
 The CAD Models have also been uploaded in this repository for further reference of reader . 
 
+Real RC Boat Pictures :
+![image](https://user-images.githubusercontent.com/86561124/223201921-d0733b77-2885-444a-aafc-a2bbe9ac9671.png)
+![image](https://user-images.githubusercontent.com/86561124/223201943-dba0e511-db49-46e9-b3bd-3cd0ade73109.png)
+
+CAD Model Pictures :
+
+![image](https://user-images.githubusercontent.com/86561124/223201220-36184fe6-f11e-4c87-9ba2-e5002e1852ce.png)
+![image](https://user-images.githubusercontent.com/86561124/223201246-a182d982-c054-4822-8309-93ea84c1ad00.png)
+![image](https://user-images.githubusercontent.com/86561124/223201308-a0ffd35a-a314-4269-b2b9-d4b2ff41927a.png)
+
